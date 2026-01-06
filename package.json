@@ -1,0 +1,12 @@
+{
+  "name": "professional-setup",
+  "version": "1.0.0",
+  "description": "A backend professional setup",
+  "license": "ISC",
+  "author": "Pushp",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
