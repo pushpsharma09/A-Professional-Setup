@@ -12,10 +12,13 @@
   "devDependencies": {
     "nodemon": "^3.1.11",
     "prettier": "^3.7.4"
+<<<<<<< HEAD
   },
   "dependencies": {
     "dotenv": "^17.2.3",
     "express": "^5.2.1",
     "mongoose": "^9.1.2"
+=======
+>>>>>>> 3ba932ec0b1bbfe143d4fd0997dc7edc438a256a
   }
 }
